@@ -11,6 +11,8 @@
 
 # :computer: Ekip Üyeleri
 ---
+**Danışman**: [Atakan AK](https://www.linkedin.com/in/atakan-ak/)
+<br/>
 
 1. [Doğukan ESEN](https://github.com/DogukanEsen)
 2. [İrem USLU](https://github.com/irem6142)
